@@ -1,2 +1,2 @@
 # dashDB-NZToolkit
-This repository includes tools frequently used by Netezza customers that have been rerofitted to work with DB2.
+This repository includes some software support tools that are frequently used by IBM Netezza customers. These tools are now available for use with dashDB environments.
